@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gogolam223
-- 👀 I’m interested in apps/games development
-- 🌱 I’m currently learning C# & Unity
+- 👀 I’m starting my career in software development.
+- 🌱 I’m currently learning C# & React Native.
 - 📫 Reach me by email! gogolam223@gmail.com 
 
 <!---
